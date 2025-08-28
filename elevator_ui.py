@@ -116,7 +116,7 @@ class ElevationUI(tk.Tk):
             "\n"
             "3) Enter frame size. (Samples per frame)\n"
             "--> Serum and Vital Wavetable: 2028\n"
-            "--> Ableton Wavetable: 1024\n"
+            "--> Ableton Wavetable and Bitwig: 1024\n"
             "\n"
             "4) Enter number of frames.\n"
             "--> highest resolution: 256. lower if you want smoother interpolation"
