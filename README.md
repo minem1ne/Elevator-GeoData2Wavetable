@@ -69,7 +69,7 @@ source venv/scripts/activate
 pip install -r requirements.txt
 pip install pyinstaller
 
-# build binary with dependantcies
+# build binary with dependencies
 pyinstaller --onefile --windowed \
   --collect-submodules=rasterio --collect-data=rasterio \
   --collect-submodules=rioxarray --collect-data=rioxarray \
