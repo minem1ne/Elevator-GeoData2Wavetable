@@ -20,7 +20,7 @@ a simple python tool which transforms OpenTopography API Elevation Data to a Wav
 
 # Usage  
 
-the simplest way to download a prebuild app from the Tag page.
+the simplest way to use this, is to download a prebuild app from the Tag page.
 
 or run the code yourself:
 
