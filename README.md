@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python elevator_ui.py
 ```
 
-The Coordinates can easyly be copied from google maps in the correct format by right clicking on the map and clicking the coordinates.
+The Coordinates can easily be copied from google maps in the correct format by right clicking on the map and clicking the coordinates.
 
 ![Elevator UI](pictures/UI.png)
 
